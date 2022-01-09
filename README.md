@@ -12,7 +12,7 @@ By Jeremy Anderson
 
 ## Situation
 
-In this case study, I play the role of a data analyst at Health Co. The General Manager of Analytics has requesed my assistance with their analysis of the ```health.user_logs``` dataset. 
+In this case study, I play the role of a data analyst at Health Co. The General Manager of Analytics has requested my assistance with their analysis of the ```health.user_logs``` dataset. 
 
 >_Hello Jeremy,_
 >
